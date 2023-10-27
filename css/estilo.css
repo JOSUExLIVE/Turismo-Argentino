@@ -2,8 +2,8 @@
 
 
 :root{
-    --clr-main: #4b33a8;
-    --clr-main-light: #6e58c7;
+    --clr-main: #5D2538;
+    --clr-main-light: #91445d;
     --clr-white: #ececec;
     --clr-gray: #e2e2e2;
     --clr-red: #961818;
@@ -29,16 +29,6 @@ ul{
  a{                         /*saca el subbrayado por defecto */
     text-decoration: none;
 }
-/* .contenedor{
-}
-.wrapper{
-}
-.producto{
-
-}
-.productos{
-
-} */
 
 #container{
     display: grid;
